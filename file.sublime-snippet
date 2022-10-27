@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+
+
+
+freopen("/home/mozahed/Documents/Love/input.txt", "r", stdin);
+freopen("/home/mozahed/Documents/Love/output.txt", "w", stdout);
+
+
+
+]]></content>
+	
+	 <tabTrigger>file</tabTrigger> 
+	
+
+</snippet>
