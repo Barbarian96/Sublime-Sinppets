@@ -2,12 +2,12 @@
 	<content><![CDATA[
 	
 
-	stringstream stream(str);
-	string intermediate;
-	while(getline(stream, intermediate, ' '))
-	{
-		cout<<intermediate<<endl;
-	}
+stringstream stream(str);
+string intermediate;
+while(getline(stream, intermediate, ' '))
+{
+	cout<<intermediate<<endl;
+}
 
 
 ]]></content>

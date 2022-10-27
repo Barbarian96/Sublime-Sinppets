@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-int round(int x,int y)
+ll int round(ll int x,ll int y)
 {
 	return ((x+y)/2)/y;
 }

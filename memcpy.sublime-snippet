@@ -2,7 +2,7 @@
 	<content><![CDATA[
   
 
-  int temp[n];
+  ll int temp[n];
   memcpy(temp, arr, n*sizeof(int));
 
   

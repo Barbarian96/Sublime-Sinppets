@@ -2,9 +2,9 @@
 	<content><![CDATA[
 
 
-	stringstream geek(str);
-	int intr;
-	geek >> intr;
+stringstream geek(str);
+int intr;
+geek >> intr;
 
 
 ]]></content>

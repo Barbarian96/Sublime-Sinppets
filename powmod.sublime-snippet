@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-int powmod(int x,int n,int M)
+ll int powmod(ll int x,ll int n,ll int M)
 {
                                     //This pro is (x^n)%m
     if(n==0)

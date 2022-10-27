@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
  
-int lcm(int a, int b) 
+ll int lcm(ll int a,ll int b) 
 {
   return (a / gcd(a, b)) * b;
   
